@@ -1,2 +1,2 @@
-data/*.bed
-annotations/*.bed
+data/*
+annotations/*
