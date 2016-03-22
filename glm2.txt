@@ -1,0 +1,22 @@
+Generalized Linear regression model:
+    y ~ 1 + x1 + x2 + x3 + x4 + x5 + x6 + x7 + x8
+    Distribution = Normal
+
+Estimated Coefficients:
+                    Estimate        SE         tStat       pValue   
+                   __________    _________    _______    ___________
+
+    (Intercept)     0.0029071     0.005224    0.55649        0.57789
+    x1               0.033551     0.010427     3.2177      0.0012978
+    x2               0.011569    0.0067214     1.7212       0.085255
+    x3                0.61885     0.016578     37.331    3.2532e-280
+    x4                0.16116     0.014851     10.852     3.0995e-27
+    x5                 0.1111      0.01404     7.9129     2.8704e-15
+    x6               0.060799     0.013259     4.5857     4.5975e-06
+    x7             -0.0072522     0.015163    -0.4783        0.63245
+    x8              -0.010607    0.0062672    -1.6925       0.090588
+
+
+7610 observations, 7601 error degrees of freedom
+Estimated Dispersion: 0.0116
+F-statistic vs. constant model: 4.07e+03, p-value = 0
